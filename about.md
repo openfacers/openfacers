@@ -1,13 +1,13 @@
 ---
 layout: page
 permalink: /about/index.html
-title: About the Jekyll Theme
-tags: [Jekyll, theme, simple, minimal, minimalism, responsive]
+title: About
+tags: [open faced sandwiches, open facers, openfacers, open sandwich, open sandwich recipes]
 image:
   feature: so-simple-sample-image-4.jpg
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the followup to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes).
+Welcome. We are all about open faced open source sandwiches. Photos by Michael Elliot King Photography.
 
 ## So Simple Theme is all about:
 
