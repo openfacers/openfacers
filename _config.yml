@@ -31,7 +31,7 @@ google_verify:      gIWP7R1BvvYXYyTnaSWh0VFijIwG5sxZdhkYUxSlfP4
 links:
   - title: About
     url: /about
-  - title: Sandwiches
+  - title: Recipes
     url: /recipes
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
