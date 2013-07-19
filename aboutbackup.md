@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /about/index.html
 title: About
 tags: [open faced sandwiches, open facers, openfacers, open sandwich, open sandwich recipes]
 image:
   feature: so-simple-sample-image-4.jpg
+published: false
 ---
 
 Welcome. We are all about open faced open source sandwiches. Photos by Michael Elliot King Photography.
