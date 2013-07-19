@@ -4,6 +4,8 @@ title: Latest Posts
 description: "A simple and clean responsive Jekyll theme for words and photos."
 ---
 
+{% include titleandlogo.html %}
+
 {% for post in site.posts limit:10 %} 
 <ul class="post-list">
   <li><article itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost"><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></span><img src="../images/{{post.image.feature}}"/></a></article></li>
