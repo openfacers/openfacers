@@ -3,8 +3,6 @@ layout: page
 permalink: /about/index.html
 title: About
 tags: [open faced sandwiches, open facers, openfacers, open sandwich, open sandwich recipes]
-image:
-  feature: openfacerslogo.png
 ---
 
 The world's first open sourced, open faced sandwiches. By the people, for the people. 
