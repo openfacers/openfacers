@@ -9,7 +9,7 @@ comments: false
 
 This sandwich is a mainstay (i.e. all-time classic). It makes for a classy breakfast, lunch, or dinner, and is great for hosting as guests can make their own sandwiches. 
 
-#Ingredients:
+#Ingredients
 
 * Bread sprinkled with sesame seeds
 * Unsalted butter
