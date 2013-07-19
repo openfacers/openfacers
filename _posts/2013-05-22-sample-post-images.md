@@ -5,6 +5,7 @@ description: "Examples and code for displaying images in posts."
 category: articles
 tags: [sample post, images, test]
 image:
+	feature: false
 	thumb: openfacerslogo.png
 comments: true  
 ---
