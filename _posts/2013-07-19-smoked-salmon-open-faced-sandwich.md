@@ -31,7 +31,7 @@ This is easiest to eat with knife and fork; serve with a glass of wine or milk d
 [^1]: Aim to buy fresh 'chunk' smoked salmon (and ideally never frozen since being caught) which is available at most fishmongers. You can then slice it with a sharp knife to your preferred thickness. This allows you to achiveve thinner slices than the pre-sliced variety in grocery stores. 
 
 <figure>
-	<a href="http://openfacers.com/images/smoked-salmon-7.jpg"><img src="/images/smoked-salmon-15.jpg"></a>
+	<a href="http://openfacers.com/images/smoked-salmon-9.jpg"><img src="/images/smoked-salmon-9.jpg"></a>
 </figure>
 
 <figure>
@@ -43,14 +43,14 @@ This is easiest to eat with knife and fork; serve with a glass of wine or milk d
 </figure>
 
 <figure>
-	<a href="http://openfacers.com/images/smoked-salmon-7.jpg"><img src="/images/smoked-salmon-8.jpg"></a>
+	<a href="http://openfacers.com/images/smoked-salmon-8.jpg"><img src="/images/smoked-salmon-8.jpg"></a>
 </figure>
 
 <figure>
-	<a href="http://openfacers.com/images/smoked-salmon-7.jpg"><img src="/images/smoked-salmon-9.jpg"></a>
+	<a href="http://openfacers.com/images/smoked-salmon-15.jpg"><img src="/images/smoked-salmon-15.jpg"></a>
 </figure>
 
 <figure>
-	<a href="http://openfacers.com/images/smoked-salmon-7.jpg"><img src="/images/smoked-salmon-16.jpg"></a>
+	<a href="http://openfacers.com/images/smoked-salmon-16.jpg"><img src="/images/smoked-salmon-16.jpg"></a>
 </figure>
 
