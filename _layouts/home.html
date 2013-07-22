@@ -7,6 +7,11 @@
 {% include head.html %}
 </head>
 
+<body id="page" itemscope itemtype="http://schema.org/WebPage">
+
+{% include browser-upgrade.html %}
+{% include navigation.html %}
+
 <header class="masthead">
   <div class="wrap">
     <a href="{{ site.url }}" class="site-logo" rel="home" title="{{ site.title }}"><img src="{{ site.url }}/images/{{ site.logo }}" width="200" height="200" class="animated fadeInUp"></a>
@@ -14,11 +19,6 @@
     <h2 class="site-description animated fadeIn">{{ site.description }}</h2>
   </div>
 </header><!-- /.masthead -->
-
-<body id="page" itemscope itemtype="http://schema.org/WebPage">
-
-{% include browser-upgrade.html %}
-{% include navigation.html %}
 
 <div id="main" role="main" itemprop="mainContentOfPage" itemscope itemtype="http://schema.org/Blog">
   <article class="hentry" itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogpost">
