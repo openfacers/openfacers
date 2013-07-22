@@ -32,10 +32,28 @@ This is easiest to eat with knife and fork; serve with a glass of wine or milk d
 
 ---
 
-<figure class="half">
-	<img src="/images/smoked-salmon-1.jpg">
+1 7 8 9
+<figure>
+	<a href="http://openfacers.com/images/smoked-salmon-1.jpg"><img src="/images/smoked-salmon-1.jpg"></a>
 </figure>
 
-<figure class="half">
-	<img src="/images/smoked-salmon-3.jpg">
+<figure>
+	<a href="http://openfacers.com/images/smoked-salmon-7.jpg"><img src="/images/smoked-salmon-7.jpg"></a>
 </figure>
+
+<figure>
+	<a href="http://openfacers.com/images/smoked-salmon-7.jpg"><img src="/images/smoked-salmon-8.jpg"></a>
+</figure>
+
+<figure>
+	<a href="http://openfacers.com/images/smoked-salmon-7.jpg"><img src="/images/smoked-salmon-9.jpg"></a>
+</figure>
+
+<figure>
+	<a href="http://openfacers.com/images/smoked-salmon-7.jpg"><img src="/images/smoked-salmon-15.jpg"></a>
+</figure>
+
+<figure>
+	<a href="http://openfacers.com/images/smoked-salmon-7.jpg"><img src="/images/smoked-salmon-16.jpg"></a>
+</figure>
+
