@@ -30,6 +30,8 @@ google_verify:      gIWP7R1BvvYXYyTnaSWh0VFijIwG5sxZdhkYUxSlfP4
 # Links to include in top navigation
 # For external links add external: true
 links:
+  - title: Home
+    url: /
   - title: About
     url: /about
   - title: Recipes
