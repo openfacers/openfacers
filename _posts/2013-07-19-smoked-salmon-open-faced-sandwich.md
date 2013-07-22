@@ -28,10 +28,12 @@ Liberally butter the toasted bread, cover with slices of smoked salmon, and spri
 
 This is easiest to eat with knife and fork; serve with a glass of wine or milk depending on the time of day. 
 
-<figure class="half">
+[^1]: Aim to buy fresh 'chunk' smoked salmon (and ideally never frozen since being caught) which is available at most fishmongers. You can then slice it with a sharp knife to your preferred thickness. This allows you to achiveve thinner slices than the pre-sliced variety in grocery stores. 
+
+---
+
+<figure>
 	<img src="/images/smoked-salmon-1.jpg">
 	<img src="/images/smoked-salmon-2.jpg">
 	<img src="/images/smoked-salmon-3.jpg">
 </figure>
-
-[^1]: Aim to buy fresh 'chunk' smoked salmon (and ideally never frozen since being caught) which is available at most fishmongers. You can then slice it with a sharp knife to your preferred thickness. This allows you to achiveve thinner slices than the pre-sliced variety in grocery stores. 
