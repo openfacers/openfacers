@@ -34,6 +34,8 @@ This is easiest to eat with knife and fork; serve with a glass of wine or milk d
 
 <figure class="half">
 	<img src="/images/smoked-salmon-1.jpg">
-	<img src="/images/smoked-salmon-2.jpg">
-	<figcaption> Test caption </figcaption>
+</figure>
+
+<figure class="half">
+	<img src="/images/smoked-salmon-3.jpg">
 </figure>
