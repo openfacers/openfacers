@@ -13,7 +13,7 @@ Photos are by [Michael Elliot Photography](http://www.michaelelliotphotography.c
 #Contributing
 Want to contribute a recipe? Simply email it to <hello@openfacers.com> and we will take care of the rest.
 
-Alternatively, anyone can contribute by to the source code by visiting our [Github page](https://github.com/openfacers/openfacers).
+Alternatively, anyone can contribute by to the source code by visiting our [Github page](https://github.com/openfacers/openfacers). We are currently using a modified version of designer [Michael Rose](http://mademistakes.com/)'s awesome [So Simple Theme](https://github.com/mmistakes/so-simple-theme).
 
 If you wish to help us pay our server costs, you can donate via Paypal. Every little bit helps and is much appreciated! Expect to receive a handwritten thank-you note within 24 hours. 
 
