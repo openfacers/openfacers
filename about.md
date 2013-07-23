@@ -5,7 +5,7 @@ title: About
 tags: [open faced sandwiches, open facers, openfacers, open sandwich, open sandwich recipes]
 ---
 
-**It's time to stop being close-minded when it comes to sandwiches.** Welcome to the world's first open-sourced, open-faced sandwiches: by the people, for the people. 
+**It's time to stop being close-minded when it comes to sandwiches.** Welcome to the world's first open-sourced, open-faced sandwich site: by the people, for the people. 
 
 
 #Photography
