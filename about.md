@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 permalink: /about/index.html
 title: About
 tags: [open faced sandwiches, open facers, openfacers, open sandwich, open sandwich recipes]
