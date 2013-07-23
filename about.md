@@ -7,11 +7,14 @@ tags: [open faced sandwiches, open facers, openfacers, open sandwich, open sandw
 
 **It's time to stop being close-minded about sandwiches.** The world's first open sourced, open faced sandwiches. By the people, for the people. 
 
+
 #Photography
 Photos are by [Michael Elliot Photography](http://www.michaelelliotphotography.com/).
 
+
 #Design
 We are currently using a modified version of designer [Michael Rose](http://mademistakes.com/)'s awesome [So Simple Theme](https://github.com/mmistakes/so-simple-theme) that he has generously made available.
+
 
 #Contributing
 Want to contribute a recipe? Simply email it to <hello@openfacers.com> and we will take care of the rest.
