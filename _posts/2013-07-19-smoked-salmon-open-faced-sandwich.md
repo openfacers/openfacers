@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Smoked Salmon Openfacer"
+title: "Smoked Salmon Openfacer XXX Rated"
 category: recipes
 image:
   feature: smoked-salmon-16-2500x700.jpg
